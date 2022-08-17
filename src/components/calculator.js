@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-export const Calc = () => {
+export const Components = () => {
     const [result, setResult] = useState('0');
     return (
         <div className='container'>
