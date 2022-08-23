@@ -9,6 +9,7 @@ function Calculator() {
     };
     return (
         <div className='container'>
+            <span className='spantitle'> Let's do some math!</span>
             <form>
                 <input type="text" value={state.next || state.total || 0} />
             </form>
