@@ -24,7 +24,7 @@
   height: 250px;
 }
 
-input[type="text"] {
+.display {
   height: 40px;
   width: 100%;
   background: #b5b2b2;
