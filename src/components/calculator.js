@@ -5,7 +5,7 @@ function Calculator() {
     const [state, setState] = useState(0);
     const handleClick = (event) => {
         setState((state) => calculate(state, event.target.innerHTML));
-        
+
     };
     return (
         <div className='container'>
