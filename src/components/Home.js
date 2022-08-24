@@ -8,7 +8,7 @@ function Home() {
         tenetur expedita dignissimos similique deleniti doloribus fugiat!
         Necessitatibus, sint
         doloribus deserunt voluptates impedit cumque alias,
-        aperiam illo dolore explicabo iure
+        aperiam illo dolore explicabo iuress
         culpa distinctio inventore perspiciatis sunt ipsam
       </p>
       <p>
