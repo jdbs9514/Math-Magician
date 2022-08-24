@@ -11,7 +11,8 @@ function Calculator() {
         <div className='container'>
             <span className='spantitle'> Let's do some math!</span>
             <form>
-                <input type="text" value={state.next || state.total || 0} />
+                {/* <input className="display" type="text" value={state.next || state.total || 0} /> */}
+                <div className='display'>{state.next || state.total || 0}</div>
             </form>
             <div className='keypad'>
                 <button type='button' className='firstline' onClick={handleClick}>AC</button>
