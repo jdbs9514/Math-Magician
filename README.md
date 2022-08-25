@@ -14,7 +14,7 @@ Math magician is a website for all fans of mathematics, you can make a simple op
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://voluble-concha-0fea28.netlify.app)
 
 
 ## Getting Started
