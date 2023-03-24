@@ -79,7 +79,7 @@
 .menubar {
   display: flex;
   justify-content: space-between;
-  margin-right: 5%;
+  background: #ff8000;
 }
 
 h1 {
@@ -94,6 +94,7 @@ a {
 
 .links {
   padding-top: 1%;
+  margin-right: 5%;
 }
 
 .main {
