@@ -5,8 +5,8 @@ function Navbar() {
       <h1>Math Magicians</h1>
       <div className="links">
         <a href="/">Home |</a>
-        <a href="/App">Calculator |</a>
-        <a href="/Quote">Quote</a>
+        <a href="/calculator">Calculator |</a>
+        <a href="/quote">Quote</a>
       </div>
     </nav>
   );
